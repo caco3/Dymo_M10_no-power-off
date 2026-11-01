@@ -24,3 +24,5 @@ It simulates presses on the units button: **GPIO3** pulls the button line low fo
 
 See [`firmware/README.md`](firmware/README.md) for build/flash instructions and timing configuration.
 
+## Websocket
+See https://github.com/caco3/Dymo-scale-websocket for a websocket server that can be used to read the scale data and provide it through Ethernet.
