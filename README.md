@@ -1,4 +1,4 @@
-# Modified DYMO M10 to prevent Power off
+# Modified DYMO Scale to prevent Power off
 Goal of this repo is to show how to modify the DYMO M10 scale so it does not switch off by itself.
 By default, it switches off after 3 minutes of no actions. To prevent this, a button (eg. the units selector) can be pressed.
 This repo shows how to add a simple microcontroller to toggle the units button twice per minute to prevent power off.
